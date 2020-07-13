@@ -1,0 +1,10 @@
+*.xml
+*.cproj
+*.o
+*.d
+*.eep
+*.lss
+*.map
+*.srec
+*.mk
+Debug/Makefile
